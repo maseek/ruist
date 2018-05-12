@@ -1,1 +1,1 @@
-# ruist [![Build Status](https://travis-ci.org/maseek/ruist.svg?branch=master)](https://travis-ci.org/maseek/ruist)
+# ruist [![Build Status](https://travis-ci.org/tzemanovic/ruist.svg?branch=master)](https://travis-ci.org/tzemanovic/ruist)
